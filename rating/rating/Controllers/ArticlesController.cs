@@ -142,7 +142,7 @@ namespace StarRatingSystem.Controllers
             }
             base.Dispose(disposing);
         }
-        public ActionResult nb()
+        public ActionResult nbbe()
         {
             return View();
         }
