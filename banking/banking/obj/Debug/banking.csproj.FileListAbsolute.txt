@@ -1,0 +1,5 @@
+D:\sakthi\File1\banking\banking\bin\Debug\banking.exe.config
+D:\sakthi\File1\banking\banking\obj\Debug\banking.csprojResolveAssemblyReference.cache
+D:\sakthi\File1\banking\banking\obj\Debug\banking.Form1.resources
+D:\sakthi\File1\banking\banking\obj\Debug\banking.Form2.resources
+D:\sakthi\File1\banking\banking\obj\Debug\banking.csproj.GenerateResource.Cache
